@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro",
+      "apellido": "Margaritalowlands",
+      "email": "pedro.feliu@entelgy.com",
+      "telefono": "987498742",
+      "empresa": "Código Con Juan",
+      "puesto": "Full Stack Dev y Instructor",
+      "estado": true,
+      "id": 1
+    }
+  ]
+}
